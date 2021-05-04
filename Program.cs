@@ -31,6 +31,8 @@ namespace SkipinSumma
             Console.WriteLine("Сумма нечетных чисел: " + summ);
             Console.ReadKey();
 
+            //kghjghfkgnkbjfgnlkfmgkhjkfghkjoifg
+
         }
 
 
